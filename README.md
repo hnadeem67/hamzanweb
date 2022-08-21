@@ -35,28 +35,7 @@ Just change `src/Module/general.js` to get your hackathon portfolio. Customize a
 
 ---
 
-## [Website Sections]()
-✔️ General hackathon Info.
 
-✔️ Registrations links.
-
-✔️ Socials.
-
-✔️ Description and logo.
-
-✔️ Frequently asked questions.
-
-✔️ Prize section.
-
-✔️ Sponsors & Partners.
-
-✔️ Judges.
-
-✔️ Volunteers.
-
-✔️ Organizers.
-
-✔️ Footer
 
 To view a live example, [click here](https://limbohacks.tech).
 
